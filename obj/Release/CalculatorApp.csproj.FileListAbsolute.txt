@@ -1,0 +1,9 @@
+C:\Users\Amit\Desktop\C#\CalculatorApp\CalculatorApp\bin\Release\CalculatorApp.exe.config
+C:\Users\Amit\Desktop\C#\CalculatorApp\CalculatorApp\bin\Release\CalculatorApp.exe
+C:\Users\Amit\Desktop\C#\CalculatorApp\CalculatorApp\bin\Release\CalculatorApp.pdb
+C:\Users\Amit\Desktop\C#\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\Amit\Desktop\C#\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.Form1.resources
+C:\Users\Amit\Desktop\C#\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.Properties.Resources.resources
+C:\Users\Amit\Desktop\C#\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Amit\Desktop\C#\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.exe
+C:\Users\Amit\Desktop\C#\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.pdb
